@@ -1,2 +1,2 @@
-# mTEA_seq.github.io
+# mTEAseq.github.io
 mTEA-seq project code
